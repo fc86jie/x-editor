@@ -1,0 +1,16 @@
+.tippy-content {
+  button {
+    color: #000;
+    margin: 0.1rem;
+    border: 1px solid black;
+    border-radius: 0.3rem;
+    padding: 0.1rem 0.4rem;
+    background: white;
+    accent-color: black;
+    font-size: 16px;
+    &.is-active {
+      color: white;
+      background-color: black;
+    }
+  }
+}
