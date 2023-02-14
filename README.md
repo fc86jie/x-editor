@@ -3,13 +3,13 @@
 ### 选用的技术
 
 1. html contenteditable
-2. tiptap(proseMirror)
+2. [tiptap](https://github.com/ueberdosis/tiptap)
 3. react
 4. react-router
 5. immer(状态管理)
 6. react-hotkeys-hook(快捷键)
 7. typescript
-8. viselect 框选
+8. [selection 框选](https://github.com/Simonwep/selection)
 9. dnd-kit 拖拽
 10. dexie.js indexedDB
 
